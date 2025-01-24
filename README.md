@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShriKant114](https://github.com/ShriKant114)
+- 👨‍💻 All of my projects are available at [github.com/ShriKant114](github.com/ShriKant114)
 
 - 📫 How to reach me **shrikantkus26@gmail.com**
 
@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikant114&show_icons=true&locale=en&layout=compact" alt="shrikant114" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant114&show_icons=true&locale=en" alt="shrikant111111114" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant114&" alt="shrikant114" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant114&show_icons=true&locale=en" alt="shrikant114" /></p>

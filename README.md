@@ -1,4 +1,10 @@
+<div style="display: flex; align-items: center; height: 100vh;">
+    <img src="https://getch21.github.io/codeforfun/images/namaste.gif" width="400px" alt="Namaste🙏">
+</div>
+
 <h1 align="center">Hi 👋, I'm Shrikant</h1>
+
+
 <h3 align="center">I’m a Full Stack Developer who loves building creative and efficient solutions. Always eager to explore new technologies and learn something new every day to keep up with the changing tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikant114&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant114" /> </p>

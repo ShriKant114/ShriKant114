@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [github.com/ShriKant114](github.com/ShriKant114)
+- 👨‍💻 All of my projects are available at [github.com/ShriKant114](https://github.com/ShriKant114)
 
 - 📫 How to reach me **shrikantkus26@gmail.com**
 

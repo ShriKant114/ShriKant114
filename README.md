@@ -1,5 +1,5 @@
 <div  align="center">
-    <img src="https://getch21.github.io/codeforfun/images/namaste.gif" width="400px" alt="Namaste🙏">
+    <img src="https://github.com/ShriKant114/githubprofile/blob/main/namaste.gif" width="400px" alt="Namaste🙏">
 </div>
 
 <h1 align="center">Namaste 👋, I'm Shrikant</h1>
